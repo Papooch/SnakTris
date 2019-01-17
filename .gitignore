@@ -1,0 +1,6 @@
+.vs
+Debug
+SnakTris/Debug
+/*.sln
+/*.vcxproj
+/*.filters
