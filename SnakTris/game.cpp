@@ -219,6 +219,7 @@ void Game::nextFrame() {
 			snake->draw();
 			placeFood();
 			food->draw();
+			nextFrame();
 		}
 	}
 
