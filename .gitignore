@@ -1,6 +1,7 @@
 .vs
-Debug
 SnakTris/Debug
+Debug/*.ilk
+Debug/*.pdb
 **.sln
 **.vcxproj
 **.filters
