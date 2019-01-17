@@ -1,6 +1,8 @@
 .vs
 Debug
 SnakTris/Debug
-/*.sln
-/*.vcxproj
-/*.filters
+**.sln
+**.vcxproj
+**.filters
+*.filters
+/SnakTris/*.vcxproj
